@@ -10,7 +10,7 @@
 - Interests: AI
 
 ## 📂 Project
-- 🧑‍💻 **Undergraduate Capstone Project** — Built an AI voice chat system using speech recognition, ChatGPT, and voice cloning (VITS).
+- 🧑‍💻 **Senior Project** — Built an AI voice chat system using speech recognition, ChatGPT, and voice cloning (VITS).
 
 ## 🏆 Achievements
 - 🥈 Second Place, NTPU AI Application Contest (2023)
