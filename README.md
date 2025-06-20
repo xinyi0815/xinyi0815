@@ -16,14 +16,6 @@
 - 🥈 Second Place, NTPU AI Application Contest (2023)
 - 🏅 Best Presentation, NTPU CS Department Project Showcase (2024)
 
-## 🎯 Interests
-- 🏀 Playing basketball — team spirit & focus
-- 🎹 Playing the piano — classical and improvisation
-- 🏋️‍♂️ Fitness & gym — discipline and physical resilience
-- 🎧 Listening to music — especially Lo-fi and Japanese jazz
-- 🎮 Gaming — from retro emulators to modern story-driven titles
-- 🐶 Dog lover — enjoy spending time with and photographing dogs
-
 ## 📫 Contact
 - 📧 Email: xinyi081592@gmail.com
 - 🌐 Personal Site: [coming soon]
