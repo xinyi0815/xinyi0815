@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm a CS student passionate about AI and hardware!
 
-<!--
-**xinyi0815/xinyi0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 About Me
+- 🎓 B.S. in Computer Science, National Taipei University (NTPU)
+- 📚 M.S. student at NYCU AI College
+- 🔬 Research focus: AI for Electronic Design Automation (AI-EDA)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: C, C++, Python, MySQL
+- Interests: AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Project
+- 🧑‍💻 **Undergraduate Capstone Project** — Built an AI voice chat system using speech recognition, ChatGPT, and voice cloning (VITS).
+
+## 🏆 Achievements
+- 🥈 Second Place, NTPU AI Application Contest (2023)
+- 🏅 Best Presentation, NTPU CS Department Project Showcase (2024)
+
+## 🎯 Interests
+- 🏀 Playing basketball — team spirit & focus
+- 🎹 Playing the piano — classical and improvisation
+- 🏋️‍♂️ Fitness & gym — discipline and physical resilience
+- 🎧 Listening to music — especially Lo-fi and Japanese jazz
+- 🎮 Gaming — from retro emulators to modern story-driven titles
+- 🐶 Dog lover — enjoy spending time with and photographing dogs
+
+## 📫 Contact
+- 📧 Email: xinyi081592@gmail.com
+- 🌐 Personal Site: [coming soon]
+
+---
+
+> ❝ 何も捨てることができない人には  
+> 何も変えることはできないだろう。❞  
+> — *If you don’t throw anything away, nothing will ever change.*
